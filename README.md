@@ -1,7 +1,7 @@
 SuperSimpleQTKit
 ================
 
-Simple example showing use of the QTKit framework to play a movie. 
+Simple example showing use of the QTKit framework to play a movie using the QTMovie, QTMovieLayer and NSWindow objects. 
 
 A command line interface is used to select the movie path.
 
