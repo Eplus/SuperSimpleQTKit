@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SuperSimpleQTKit' target in the 'SuperSimpleQTKit' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
